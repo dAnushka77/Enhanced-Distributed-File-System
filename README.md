@@ -1,4 +1,5 @@
-# Enhanced-Distributed-File-System - Client-Server File Management System
+# Enhanced-Distributed-File-System 
+## Client-Server File Management System
 
 A simple client-server application allowing users to interact with files stored on a server. The application supports basic file operations such as creating, reading, writing, deleting, listing, renaming files, and changing directories.
 
